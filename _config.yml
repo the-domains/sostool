@@ -55,3 +55,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b4dbaa9-16c7-405a-8ae8-2656be5ad239.gif
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/19414101-96f1-4aa0-8e28-8a13ea79c22e.jpg
+purpose:
+  - type: contact
+    url: 'mailto:sostool.help@gmail.com'
+    label: Contact me
