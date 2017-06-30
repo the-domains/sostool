@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SoS TooL]]></title>
+        <description><![CDATA[SoS TooL]]></description>
+        <link>http://sostool.help/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Jun 2017 16:07:48 GMT</lastBuildDate>
+        <atom:link href="http://sostool.help/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<pre><code>&lt;div id=&quot;my-store-11717055&quot;&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;https://app.ecwid.com/script.js?11717055&amp;data_platform=code&amp;data_date=2017-06-30&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt; xProductBrowser(&quot;categoriesPerRow=3&quot;,&quot;views=grid(20,3) list(60) table(60)&quot;,&quot;categoryView=grid&quot;,&quot;searchView=list&quot;,&quot;id=my-store-11717055&quot;);&lt;/script&gt;
+&lt;/div&gt;</code></pre>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFj7EOwiAYhHefgjAYHSigqTVa6uA7uBoC1NLYQOC3tm9vlRhdjMsNl8uX-0pte2S1wN1I-qMEc3HBmkg4L3jB8hxXJZ0m1axMGVWwHhCM3ggMZgDayl6mFqMYlMANgI87SqX3mVF3qzPlOpomWRsPb_RcS5Bnf5VQu9AJ5bRJ1RRGrBgvCNuQNcNINTJEAwLfoCbb56VE-_enQsPp47TAk-cvzeUefVFfyg9j8l4C" height="239"></iframe>,<p>Categories</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9kMFqwzAQRO_5CqFDsSG25ZjEpbVc6BeEHnotqrSJFWwkVhs7_vvKcdtLoZdleTs7DNMYOzJrJB_mLJBDyMqyLmux3_O2KeKx3TTrDBqtJ0azB8kJblRc1KhWyllALXlH5MNTUSjvc9CTNbl2Q7FK8kt4-bF-MIrUh-8VnRwOUjsDK4oD5E6UdSYOWSU4053CACT5lU7Z4xJpdWv_j9Oy2xGduWp6RTcFwITraH12aCEcAd_cJCu-5aOFKcgzWpPsxLZKWW8DJQeRMlKfPSxbVH2_zu9RfRdHFkCh7u5k-Ykklvi3w_T5N_FmrfMLPSZ60w" height="244"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJx9kMFqwzAQRO_5CqFDsSG25ZjEpbVc6BeEHnotqrSJFWwkVhs7_vvKcdtLoZdleTs7DNMYOzJrJB_mLJBDyMqyLmux3_O2KeKx3TTrDBqtJ0azB8kJblRc1KhWyllALXlH5MNTUSjvc9CTNbl2Q7FK8kt4-bF-MIrUh-8VnRwOUjsDK4oD5E6UdSYOWSU4053CACT5lU7Z4xJpdWv_j9Oy2xGduWp6RTcFwITraH12aCEcAd_cJCu-5aOFKcgzWpPsxLZKWW8DJQeRMlKfPSxbVH2_zu9RfRdHFkCh7u5k-Ykklvi3w_T5N_FmrfMLPSZ60w</link>
+            <guid isPermaLink="false">0cf40c93-48cf-4255-b830-59ead34d9502</guid>
+            <pubDate>Fri, 30 Jun 2017 16:07:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
