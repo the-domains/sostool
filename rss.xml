@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SoS TooL]]></title>
+        <description><![CDATA[SoS TooL]]></description>
+        <link>http://sostool.help/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Jun 2017 18:02:19 GMT</lastBuildDate>
+        <atom:link href="http://sostool.help/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Magic socket Grip]]></title>
+            <description><![CDATA[<h1>Magic socket Grip</h1>]]></description>
+            <link>http://sostool.help/magic-socket-grip/index.html</link>
+            <guid isPermaLink="false">0cf40c93-48cf-4255-b830-59ead34d9502</guid>
+            <pubDate>Fri, 30 Jun 2017 18:01:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
