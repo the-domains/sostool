@@ -1,0 +1,57 @@
+layout_spectrum: 0.15775658272870696
+typography_spectrum: 0.7782328783896854
+color:
+  brandStrength: 0.3895303689387839
+  lightness: 0.9704173895657653
+  saturation: 0.1259953596890157
+  rhythmicContrast: 0.7288031567393405
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: sostool
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b788e1f7-9fdd-4dde-8e7b-8a18138d8f0c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b788e1f7-9fdd-4dde-8e7b-8a18138d8f0c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: SoS TooL
+description: ''
+author:
+  url: 'http://sostool.help/'
+  name: SoS TooL
+  email: sostool.help@gmail.com
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b4dbaa9-16c7-405a-8ae8-2656be5ad239.gif
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19414101-96f1-4aa0-8e28-8a13ea79c22e.jpg
