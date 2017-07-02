@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: ''
-dateModified: '2017-07-02T13:57:27.604Z'
-datePublished: '2017-07-02T13:57:27.842Z'
+dateModified: '2017-07-02T14:16:12.511Z'
+datePublished: '2017-07-02T14:16:13.877Z'
 title: Preview the socket universal grip
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-02T13:56:46.611Z'
 url: preview-the-socket-universal-grip/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Preview the socket universal grip
