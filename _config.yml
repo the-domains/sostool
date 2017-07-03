@@ -85,7 +85,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -94,7 +93,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: SoS TooL
-description: "This is the place where you can find useful #tools. #Survival #Survivor #Help the must need \uD83C\uDD98#tool. \uD83D\uDEE0   Free world wide ship"
+description: "This is the place where you can find useful #tools. #Survival #Mechanical #Cooking... the must need \uD83C\uDD98#tool. \uD83D\uDEE0   Free world wide ship"
 author:
   url: 'http://sostool.help/'
   name: SoS TooL
