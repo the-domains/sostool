@@ -1,18 +1,18 @@
 ---
-inFeed: true
+inFeed: false
 description: 'Shipping terms:'
-dateModified: '2017-07-04T11:22:13.596Z'
-datePublished: '2017-07-04T11:22:14.721Z'
+dateModified: '2017-07-04T11:34:17.176Z'
+datePublished: '2017-07-04T11:34:17.927Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
-sourcePath: _posts/2017-07-04-shipping-terms.md
 starred: false
-datePublishedOriginal: '2017-07-04T11:20:42.778Z'
+datePublishedOriginal: '2017-07-04T11:34:16.714Z'
+sourcePath: _posts/2017-07-04-shipping-terms.md
 url: shipping-terms/index.html
-_type: Article
+_type: Blurb
 
 ---
 Shipping terms:
