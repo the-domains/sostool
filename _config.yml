@@ -37,7 +37,6 @@ content:
         domain: dl.dropboxusercontent.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
