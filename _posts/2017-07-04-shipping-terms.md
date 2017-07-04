@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Shipping terms:'
-dateModified: '2017-07-04T11:20:32.623Z'
-datePublished: '2017-07-04T11:20:42.778Z'
+dateModified: '2017-07-04T11:22:13.596Z'
+datePublished: '2017-07-04T11:22:14.721Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-07-04-shipping-terms.md
 starred: false
 datePublishedOriginal: '2017-07-04T11:20:42.778Z'
-sourcePath: _posts/2017-07-04-shipping-terms.md
 url: shipping-terms/index.html
 _type: Article
 
