@@ -1,4 +1,3 @@
-layout_spectrum: 0.15775658272870696
 typography_spectrum: 0.7782328783896854
 color:
   brandStrength: 0.3895303689387839
@@ -11,6 +10,17 @@ color:
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
+github: true
+layout_spectrum: 0.15775658272870696
+analytics:
+  google: '102001020'
+author:
+  url: 'http://sostool.help/'
+  name: SoS TooL
+  email: sostool.help@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab597c8f-072e-472a-b388-3f102f2656fb.jpg
+name: sostool
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +28,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: sostool
+navigation:
+  - name: Shipping terms
+    id: e7ee4dbe-c62a-4aa9-ad77-d9508bec3949
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19414101-96f1-4aa0-8e28-8a13ea79c22e.jpg
+title: SoS TooL
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,38 +44,26 @@ content:
     src: >-
       https://dl.dropboxusercontent.com/content_link/e1BzdD9ocR2lV2QLMORYS6zDtoTJbGm2lg7V4YAhUQeNP6J2e1aUN8qk3iVSfR1g/file?dl=0&duc_id=UzBomG852tqmx84DAud4wxeqrAQyF6NenNpkSspzvmOWM9BGuf6A8nK09v4TklkZ&raw=1&size_mode=5
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: >-
+        https://dl.dropboxusercontent.com/content_link/e1BzdD9ocR2lV2QLMORYS6zDtoTJbGm2lg7V4YAhUQeNP6J2e1aUN8qk3iVSfR1g/file?dl=0&duc_id=UzBomG852tqmx84DAud4wxeqrAQyF6NenNpkSspzvmOWM9BGuf6A8nK09v4TklkZ&raw=1&size_mode=5
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://dl.dropboxusercontent.com'
         name: Dropboxusercontent
         favicon: null
         domain: dl.dropboxusercontent.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://dl.dropboxusercontent.com/content_link/e1BzdD9ocR2lV2QLMORYS6zDtoTJbGm2lg7V4YAhUQeNP6J2e1aUN8qk3iVSfR1g/file?dl=0&duc_id=UzBomG852tqmx84DAud4wxeqrAQyF6NenNpkSspzvmOWM9BGuf6A8nK09v4TklkZ&raw=1&size_mode=5
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: SoS TooL
 description: "Here you can find the best ever innovative \uD83C\uDD98#tools. #Survival #Mechanical #Cooking...\uD83D\uDEE0Free world wide shipping"
-author:
-  url: 'http://sostool.help/'
-  name: SoS TooL
-  email: sostool.help@gmail.com
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab597c8f-072e-472a-b388-3f102f2656fb.jpg
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/19414101-96f1-4aa0-8e28-8a13ea79c22e.jpg
 purpose:
   - type: contact
     url: 'mailto:sostool.help@gmail.com'
     label: 'Contact us : sostool.help@gmail.com'
-analytics:
-  google: '102001020'
