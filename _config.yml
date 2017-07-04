@@ -19,7 +19,61 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: sostool
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>plasma cutter.gif</h1><p>Dropbox is a free service that lets
+      you bring your photos, docs, and videos anywhere and share them easily.
+      Never email yourself a file again!</p><img
+      src="https://cfl.dropboxstatic.com/static/images/brand/twitter-card-glyph@2x-vflVqhKLO.png"></article>
+    src: >-
+      https://cfl.dropboxstatic.com/static/images/brand/twitter-card-glyph@2x-vflVqhKLO.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://www.dropbox.com'
+        name: Dropbox
+        favicon: 'https://cfl.dropboxstatic.com/static/images/favicon-vflk5FiAC.ico'
+        domain: www.dropbox.com
+      keywords:
+        - online storage
+        - free storage
+        - file sharing
+        - share files
+        - awesome
+        - cloud storage
+        - online backup
+        - cross platform
+        - sync
+        - sharing
+        - mac
+        - windows
+        - os x
+        - linux
+        - backup
+        - collaboration
+        - file versioning
+        - file revisions
+        - remote access
+        - undelete
+      description: >-
+        Dropbox is a free service that lets you bring your photos, docs, and
+        videos anywhere and share them easily. Never email yourself a file
+        again!
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://www.dropbox.com/s/iyjem6cccx1zwu7/plasma%20cutter.gif?dl=0'
+      title: plasma cutter.gif
+      datePublished: null
+    title: plasma cutter.gif
+    caption: >-
+      Dropbox is a free service that lets you bring your photos, docs, and
+      videos anywhere and share them easily. Never email yourself a file again!
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: SoS TooL
 description: "This is the place where you can find useful #tools. #Survival #Mechanical #Cooking... the must need \uD83C\uDD98#tool. \uD83D\uDEE0   Free world wide ship"
 author:
