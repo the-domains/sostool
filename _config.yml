@@ -19,7 +19,34 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: sostool
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://dl.dropboxusercontent.com/content_link/e1BzdD9ocR2lV2QLMORYS6zDtoTJbGm2lg7V4YAhUQeNP6J2e1aUN8qk3iVSfR1g/file?dl=0&duc_id=UzBomG852tqmx84DAud4wxeqrAQyF6NenNpkSspzvmOWM9BGuf6A8nK09v4TklkZ&raw=1&size_mode=5">
+    src: >-
+      https://dl.dropboxusercontent.com/content_link/e1BzdD9ocR2lV2QLMORYS6zDtoTJbGm2lg7V4YAhUQeNP6J2e1aUN8qk3iVSfR1g/file?dl=0&duc_id=UzBomG852tqmx84DAud4wxeqrAQyF6NenNpkSspzvmOWM9BGuf6A8nK09v4TklkZ&raw=1&size_mode=5
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://dl.dropboxusercontent.com'
+        name: Dropboxusercontent
+        favicon: null
+        domain: dl.dropboxusercontent.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        https://dl.dropboxusercontent.com/content_link/e1BzdD9ocR2lV2QLMORYS6zDtoTJbGm2lg7V4YAhUQeNP6J2e1aUN8qk3iVSfR1g/file?dl=0&duc_id=UzBomG852tqmx84DAud4wxeqrAQyF6NenNpkSspzvmOWM9BGuf6A8nK09v4TklkZ&raw=1&size_mode=5
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: SoS TooL
 description: "This is the place where you can find useful #tools. #Survival #Mechanical #Cooking... the must need \uD83C\uDD98#tool. \uD83D\uDEE0   Free world wide ship"
 author:
