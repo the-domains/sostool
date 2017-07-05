@@ -1,9 +1,12 @@
 ---
 inFeed: false
-description: 'Shipping terms:'
-dateModified: '2017-07-05T06:24:57.355Z'
-datePublished: '2017-07-05T06:24:58.408Z'
-title: Shipping & Delivery
+description: >-
+  ***We will ship to your PAYPAL address please verify your shipping address! If
+  buyer make mistake with his shipping address re-stockage FEES will be applied
+  for resend or refund***
+dateModified: '2017-07-05T06:29:19.725Z'
+datePublished: '2017-07-05T06:29:20.796Z'
+title: 'Shipping terms:'
 author: []
 publisher: {}
 via: {}
@@ -15,7 +18,7 @@ url: shipping-terms/index.html
 _type: Blurb
 
 ---
-Shipping terms:
+# Shipping terms:
 
 **\*\*\*We will ship to your PAYPAL address please verify your shipping address! If buyer make mistake with his shipping address re-stockage FEES will be applied for resend or refund\*\*\***
 
@@ -29,13 +32,13 @@ Thanks for your purchase!
 
 Best regards!
 
-# **Shipping & Delivery**
+## Q & A:
 
 We are proud to offer international shipping services that currently operate in over 200 countries and islands world wide. Nothing means more to us than bringing our customers great value and service. We will continue to grow to meet the needs of all our customers, delivering a service beyond all expectation anywhere in the world.
 
 ### How do you ship packages?
 
-Packages from our warehouse in China will be shipped by ePacket or EMS depending on the weight and size of the product. Packages shipped from our USA, Canada or EU warehouse are shipped through respective national post services (USPS, Canada post ...").
+Packages from warehouse in China will be shipped by ePacket China post depending on the weight and size of the product. Packages shipped from USA, Canada or EU warehouse are shipped through respective national post services like USPS, Canada post ...
 
 ### Do you ship worldwide?
 
