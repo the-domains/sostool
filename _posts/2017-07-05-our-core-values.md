@@ -1,20 +1,22 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
-  Our team is passionate about making it easier for you to shop online.We care
+  Our team is passionate about making it easier for you to shop online. We care
   about your time so we try our best to make your shopping experience pleasant,
-  seamless and hassle-free.We're committed to offering the lowest prices and
-  also frequent promotions and seasonal sales.We hope to build relationships
-  with our customers so we'll do everything we can to ensure you’re satisfied. 
-dateModified: '2017-07-05T07:13:57.639Z'
-datePublished: '2017-07-05T07:14:08.409Z'
+  seamless and hassle-free. We're committed to offering the lowest prices and
+  also frequent promotions and seasonal sales. We hope to build relationships
+  with our customers so we'll do everything we can to ensure you’re satisfied.
+dateModified: '2017-07-05T07:14:29.847Z'
+datePublished: '2017-07-05T07:14:30.820Z'
 title: OUR CORE VALUES
 author: []
 publisher: {}
 via: {}
+hasPage: true
 starred: false
-datePublishedOriginal: '2017-07-05T07:14:08.409Z'
+datePublishedOriginal: '2017-07-05T07:14:27.362Z'
 sourcePath: _posts/2017-07-05-our-core-values.md
+url: our-core-values/index.html
 _type: Blurb
 
 ---
@@ -25,7 +27,7 @@ _type: Blurb
 Our team is passionate about making it easier for you to shop online.  
 We care about your time so we try our best to make your shopping experience pleasant, seamless and hassle-free.  
 We're committed to offering the lowest prices and also frequent promotions and seasonal sales.  
-We hope to build relationships with our customers so we'll do everything we can to ensure you're satisfied. 
+We hope to build relationships with our customers so we'll do everything we can to ensure you're satisfied.
 
 We will ad more items and special tip and tricks.
 
