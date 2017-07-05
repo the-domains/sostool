@@ -38,6 +38,9 @@ navigation:
   - name: About us
     id: 913ae59a-5283-4c91-9891-946408071787
     type: content
+  - name: Privacy policies
+    id: a626a255-56f6-4166-b5d4-acb5b585b381
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/19414101-96f1-4aa0-8e28-8a13ea79c22e.jpg
 title: SoS TooL
