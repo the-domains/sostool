@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: Payments methods include PayPal and Credit cards.
-dateModified: '2017-07-05T06:50:26.335Z'
-datePublished: '2017-07-05T06:50:31.026Z'
+dateModified: '2017-07-05T06:51:57.593Z'
+datePublished: '2017-07-05T06:51:58.665Z'
 title: Payment methods
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-07-05-payment-methods.md
 starred: false
 datePublishedOriginal: '2017-07-05T06:50:31.026Z'
-sourcePath: _posts/2017-07-05-payment-methods.md
 url: payment-methods/index.html
 _type: Blurb
 
