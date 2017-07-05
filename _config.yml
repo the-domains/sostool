@@ -10,7 +10,6 @@ color:
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-github: true
 layout_spectrum: 0.15775658272870696
 analytics:
   google: '102001020'
@@ -77,3 +76,4 @@ purpose:
   - type: contact
     url: 'mailto:sostool.help@gmail.com'
     label: 'Contact us : sostool.help@gmail.com'
+github: true
