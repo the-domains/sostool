@@ -32,14 +32,14 @@ navigation:
   - name: About us
     id: 913ae59a-5283-4c91-9891-946408071787
     type: content
+  - name: Privacy policies
+    id: a626a255-56f6-4166-b5d4-acb5b585b381
+    type: content
   - name: Shipping terms
     id: e7ee4dbe-c62a-4aa9-ad77-d9508bec3949
     type: content
   - name: Payment methods
     id: 7543d2bd-41a4-4546-af97-6a10e489c8e7
-    type: content
-  - name: Privacy policies
-    id: a626a255-56f6-4166-b5d4-acb5b585b381
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/19414101-96f1-4aa0-8e28-8a13ea79c22e.jpg
