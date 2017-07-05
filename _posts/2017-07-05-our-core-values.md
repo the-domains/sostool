@@ -6,8 +6,8 @@ description: >-
   seamless and hassle-free.We're committed to offering the lowest prices and
   also frequent promotions and seasonal sales.We hope to build relationships
   with our customers so we'll do everything we can to ensure you’re satisfied.
-dateModified: '2017-07-05T07:14:47.191Z'
-datePublished: '2017-07-05T07:14:48.062Z'
+dateModified: '2017-07-05T07:31:25.312Z'
+datePublished: '2017-07-05T07:31:26.065Z'
 title: OUR CORE VALUES
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ url: our-core-values/index.html
 _type: Blurb
 
 ---
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7377c8515cf7619efd8840acf39f1ce1/croprotate.png?cropheight=626&cropwidth=729&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6b6f9e2b-855d-4ddd-9e84-d52ea9e585eb.png&x=40&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ab79e7-7d3f-4869-b15b-53d295440f25.png)
 
 ### WHY US
 
@@ -38,7 +38,7 @@ We will update the site frequently, stay in touch.
 * Be Adventurous, Creative, and Open-Minded
 * Create Long-Term Relationships with Our Customers
 * Pursue Growth and Learning
-* Inspire Happiness and Positivity
+* Inspire Happiness and Positivism
 * Make Sure Our Customers are Pleased
 
 ## KEEP IN CONTACT WITH US
