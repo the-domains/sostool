@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: WELCOME to our site!
-dateModified: '2017-07-05T08:15:34.256Z'
-datePublished: '2017-07-05T08:15:35.228Z'
+dateModified: '2017-07-05T15:22:36.018Z'
+datePublished: '2017-07-05T15:22:37.408Z'
 title: OUR CORE VALUES
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ _type: Blurb
 
 ---
 WELCOME to our site!
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c775768f8f1cdddc9489a1de4d4852d3/croprotate.png?cropheight=626&cropwidth=729&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F50ab79e7-7d3f-4869-b15b-53d295440f25.png&x=40&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0566d97edabb7eccac6a62745105a8892b2268d4.png)
 
 Our team is passionate about making it easier for you to shop online.  
 We care about your time so we try our best to make your shopping experience pleasant, seamless and hassle-free.  
@@ -38,3 +38,5 @@ We will update the site frequently, stay in touch.
 ## KEEP IN CONTACT WITH US
 
 We're continually working on our online store and are open to any suggestions. If you have any questions or proposals, please do not hesitate to contact us.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVzEEOgjAQQNGrjHVdisGGkABbj2FKp0qJZkhnsOLp1eDG7fvJb3daw4lACHLOhUOUMXLh6W7Q8TiQS_iNfmGhe3wFWGlJH6Ebg9Y9tOxTnAVknUOnJDzFTO7hNlXAyXfKGK7_1hObqizNj8454jVIMfF-XoaIXXLaNtZfsB6OASt7sI3qW7M9e3gDJ509nA" height="244" style=""></iframe>
