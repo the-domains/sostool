@@ -6,8 +6,8 @@ description: >-
   seamless and hassle-free.We're committed to offering the lowest prices and
   also frequent promotions and seasonal sales.We hope to build relationships
   with our customers so we'll do everything we can to ensure you’re satisfied.
-dateModified: '2017-07-05T07:31:25.312Z'
-datePublished: '2017-07-05T07:31:26.065Z'
+dateModified: '2017-07-05T07:35:30.868Z'
+datePublished: '2017-07-05T07:35:31.965Z'
 title: OUR CORE VALUES
 author: []
 publisher: {}
@@ -21,8 +21,6 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ab79e7-7d3f-4869-b15b-53d295440f25.png)
-
-### WHY US
 
 Our team is passionate about making it easier for you to shop online.  
 We care about your time so we try our best to make your shopping experience pleasant, seamless and hassle-free.  
