@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: 'Shipping terms:'
-dateModified: '2017-07-05T06:12:20.297Z'
-datePublished: '2017-07-05T06:12:21.691Z'
-title: ''
+dateModified: '2017-07-05T06:24:57.355Z'
+datePublished: '2017-07-05T06:24:58.408Z'
+title: Shipping & Delivery
 author: []
 publisher: {}
 via: {}
@@ -28,3 +28,41 @@ After BUYER **payment **we consider that buyer had read these terms and conditio
 Thanks for your purchase!
 
 Best regards!
+
+# **Shipping & Delivery**
+
+We are proud to offer international shipping services that currently operate in over 200 countries and islands world wide. Nothing means more to us than bringing our customers great value and service. We will continue to grow to meet the needs of all our customers, delivering a service beyond all expectation anywhere in the world.
+
+### How do you ship packages?
+
+Packages from our warehouse in China will be shipped by ePacket or EMS depending on the weight and size of the product. Packages shipped from our USA, Canada or EU warehouse are shipped through respective national post services (USPS, Canada post ...").
+
+### Do you ship worldwide?
+
+Yes. We provide free shipping to over 200 countries around the world. However, there are some location we are unable to ship to. If you happen to be located in one of those countries just contact us.
+
+### What about customs?
+
+We are not responsible for any custom fees once the items have shipped. By purchasing our products, you consent that one or more packages may be shipped to you and may get custom fees when they arrive to your country.
+
+### How long does shipping take?
+
+Shipping time varies by location. These are our estimates:
+
+Location\*Estimated Shipping Time United States 20-35 Business days. Canada, Europe 20-40 Business days. Australia, New Zealand 25-45 Business days. Mexico, Central America, South America 30-90 Business days
+
+_\*This doesn't include our 1-5 day processing time._
+
+### Do you provide tracking information?
+
+Yes, you will receive an email once your order ships that contains your tracking information. If you haven't received tracking info within 5 days, please contact us.
+
+### My tracking says "no information available at the moment".
+
+For some shipping companies, it takes 2-5 business days for the tracking information to update on the system. If your order was placed more than 5 business days ago and there is still no information on your tracking number, please contact us.
+
+### Will my items be sent in one package?
+
+For logistical reasons, items in the same purchase will sometimes be sent in separate packages, even if you've specified combined shipping. Because its free shipping we need to configure the best and cheapest way. So you can receive different package for 1 order.
+
+If you have any other questions, please contact us and we will do our best to help you out.
