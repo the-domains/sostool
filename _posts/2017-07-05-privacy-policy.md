@@ -4,16 +4,16 @@ description: >-
   Your satisfaction is our long-term pursuit and concern. We want you to shop
   with confidence. That’s why we provide guarantees that ensure you’ll receive
   your item on time and as described.
-dateModified: '2017-07-05T08:10:12.687Z'
-datePublished: '2017-07-05T08:10:13.544Z'
+dateModified: '2017-07-05T08:10:44.474Z'
+datePublished: '2017-07-05T08:10:45.603Z'
 title: Privacy Policy
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-07-05-privacy-policy.md
 starred: false
 datePublishedOriginal: '2017-07-05T08:10:09.800Z'
-sourcePath: _posts/2017-07-05-privacy-policy.md
 url: privacy-policy/index.html
 _type: Blurb
 
