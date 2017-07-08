@@ -17,10 +17,10 @@ app_links:
 title: >-
   Adjustable 1/2''-5/8'' Nut Splitter Cracker ceased Bolt Remover extractor
   Boulon | eBay
-datePublished: '2017-07-08T14:30:38.515Z'
-dateModified: '2017-07-08T14:30:37.269Z'
+datePublished: '2017-07-08T14:54:25.415Z'
+dateModified: '2017-07-08T14:54:20.208Z'
 via: {}
-inFeed: false
+inFeed: true
 sourcePath: _posts/2017-07-08-adjustable-12-58-nut-splitter-cracker-ceased-bolt-remo.md
 hasPage: true
 starred: false
