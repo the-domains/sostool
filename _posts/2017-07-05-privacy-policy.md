@@ -5,7 +5,7 @@ description: >-
   with confidence. That’s why we provide guarantees that ensure you’ll receive
   your item on time and as described.
 dateModified: '2017-07-10T07:13:44.588Z'
-datePublished: '2017-07-10T07:13:45.068Z'
+datePublished: '2017-07-10T07:13:45.119Z'
 title: Privacy Policy
 author: []
 publisher: {}
