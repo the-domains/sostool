@@ -4,8 +4,8 @@ description: >-
   ***We will ship to your PAYPAL address please verify your shipping address! If
   buyer make mistake with his shipping address re-stockage FEES will be applied
   for resend or refund***
-dateModified: '2017-07-10T07:14:33.265Z'
-datePublished: '2017-07-10T07:14:34.348Z'
+dateModified: '2017-07-10T07:14:35.011Z'
+datePublished: '2017-07-10T07:14:36.335Z'
 title: 'Shipping terms:'
 author: []
 publisher: {}
