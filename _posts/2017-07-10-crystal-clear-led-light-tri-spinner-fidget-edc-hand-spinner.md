@@ -22,8 +22,8 @@ isBasedOnUrl: >-
 title: >-
   CRYSTAL CLEAR LED Light Tri-Spinner Fidget EDC Hand Spinner Autism ADHD Stress
   gyroscope. From our eBay store.
-datePublished: '2017-07-10T08:57:35.352Z'
-dateModified: '2017-07-10T08:57:34.993Z'
+datePublished: '2017-07-10T08:58:46.018Z'
+dateModified: '2017-07-10T08:58:45.866Z'
 via: {}
 inFeed: true
 sourcePath: >-
