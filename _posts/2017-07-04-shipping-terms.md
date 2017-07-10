@@ -4,8 +4,8 @@ description: >-
   ***We will ship to your PAYPAL address please verify your shipping address! If
   buyer make mistake with his shipping address re-stockage FEES will be applied
   for resend or refund***
-dateModified: '2017-07-05T06:29:19.725Z'
-datePublished: '2017-07-05T06:29:20.796Z'
+dateModified: '2017-07-10T07:14:33.265Z'
+datePublished: '2017-07-10T07:14:34.348Z'
 title: 'Shipping terms:'
 author: []
 publisher: {}
@@ -69,3 +69,7 @@ For some shipping companies, it takes 2-5 business days for the tracking informa
 For logistical reasons, items in the same purchase will sometimes be sent in separate packages, even if you've specified combined shipping. Because its free shipping we need to configure the best and cheapest way. So you can receive different package for 1 order.
 
 If you have any other questions, please contact us and we will do our best to help you out.
+
+Copyright (c) 2017 -[sostool.help][0]- All rights reserved.
+
+[0]: http://sostool.help/
