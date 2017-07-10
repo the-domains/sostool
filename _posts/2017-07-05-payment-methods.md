@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Payments methods include PayPal and Credit cards.
-dateModified: '2017-07-10T07:14:15.597Z'
-datePublished: '2017-07-10T07:14:16.711Z'
+dateModified: '2017-07-10T07:14:17.213Z'
+datePublished: '2017-07-10T07:14:17.729Z'
 title: Payment methods
 author: []
 publisher: {}
