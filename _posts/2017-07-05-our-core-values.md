@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: WELCOME to our site!
-dateModified: '2017-07-05T15:22:36.018Z'
-datePublished: '2017-07-05T15:22:37.408Z'
+dateModified: '2017-07-10T07:13:23.933Z'
+datePublished: '2017-07-10T07:13:25.690Z'
 title: OUR CORE VALUES
 author: []
 publisher: {}
@@ -40,3 +40,7 @@ We will update the site frequently, stay in touch.
 We're continually working on our online store and are open to any suggestions. If you have any questions or proposals, please do not hesitate to contact us.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVzEEOgjAQQNGrjHVdisGGkABbj2FKp0qJZkhnsOLp1eDG7fvJb3daw4lACHLOhUOUMXLh6W7Q8TiQS_iNfmGhe3wFWGlJH6Ebg9Y9tOxTnAVknUOnJDzFTO7hNlXAyXfKGK7_1hObqizNj8454jVIMfF-XoaIXXLaNtZfsB6OASt7sI3qW7M9e3gDJ509nA" height="244" style=""></iframe>
+
+Copyright (c) 2017 -[sostool.help][0]- All rights reserved.
+
+[0]: http://sostool.help/
