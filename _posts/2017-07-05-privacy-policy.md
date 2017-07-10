@@ -4,8 +4,8 @@ description: >-
   Your satisfaction is our long-term pursuit and concern. We want you to shop
   with confidence. That’s why we provide guarantees that ensure you’ll receive
   your item on time and as described.
-dateModified: '2017-07-05T08:10:44.474Z'
-datePublished: '2017-07-05T08:10:45.603Z'
+dateModified: '2017-07-10T07:13:44.588Z'
+datePublished: '2017-07-10T07:13:45.068Z'
 title: Privacy Policy
 author: []
 publisher: {}
@@ -44,7 +44,7 @@ All orders can be cancelled until they are shipped. If your order has been paid 
 
 ### Refunds
 
-Your satisfaction is our \#1 priority. Therefore, 
+Your satisfaction is our \#1 priority. Therefore,
 
 If you did **not** receive the product within the guaranteed time (45 days not including 2-5 day processing) you can request a refund or a reshipment. If you received the wrong item you can request a refund or a reshipment. If you do not want the product you've receive you may request a refund but you must return the item at your expense and the item must be unused.
 
@@ -60,4 +60,7 @@ Please do not send your purchase back to us unless we authorize you to do so.
 
 Thanks
 
+Copyright (c) 2017 -[sostool.help][1]- All rights reserved.
+
 [0]: http://sostool.help/shipping-terms "shipping terms"
+[1]: http://sostool.help/
