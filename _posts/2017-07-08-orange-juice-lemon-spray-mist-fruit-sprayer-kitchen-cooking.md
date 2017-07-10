@@ -22,8 +22,8 @@ isBasedOnUrl: >-
 title: >-
   Orange Juice Lemon Spray Mist Fruit Sprayer Kitchen Cooking Tool Squeezer
   Juicer
-datePublished: '2017-07-10T07:05:06.550Z'
-dateModified: '2017-07-10T07:05:05.364Z'
+datePublished: '2017-07-10T07:07:31.347Z'
+dateModified: '2017-07-10T07:07:31.225Z'
 via: {}
 inFeed: true
 sourcePath: >-
