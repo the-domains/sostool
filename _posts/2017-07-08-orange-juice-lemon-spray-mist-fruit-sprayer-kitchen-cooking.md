@@ -23,8 +23,8 @@ app_links: []
 isBasedOnUrl: >-
   https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FOrange-Juice-Lemon-Spray-Mist-Fruit-Sprayer-Kitchen-Cooking-Tool-Squeezer-Juicer-%2F132248420814%3Fhash%3Ditem1eca9ec1ce%3Ag%3AQZkAAOSwbiFZWf72
 title: Cooking spray tool! Get fresh citrus. See it in our eBay store!
-datePublished: '2017-07-10T08:58:46.018Z'
-dateModified: '2017-07-10T08:58:45.866Z'
+datePublished: '2017-07-11T00:24:15.412Z'
+dateModified: '2017-07-11T00:24:15.123Z'
 via: {}
 inFeed: true
 sourcePath: >-
