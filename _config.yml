@@ -77,3 +77,5 @@ purpose:
     url: 'mailto:sostool.help@gmail.com'
     label: 'Contact us : sostool.help@gmail.com'
 github: true
+opengraph:
+  appId: '464132343967098'
