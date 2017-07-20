@@ -20,8 +20,8 @@ app_links:
 isBasedOnUrl: >-
   https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FCRYSTAL-CLEAR-LED-Light-Tri-Spinner-Fidget-EDC-Hand-Spinner-Autism-ADHD-Stress-1%2F132256178781
 title: ULTRA CLEAR Spinner Autism relief anxiety gyroscope. See it in our eBay store!
-datePublished: '2017-07-11T00:24:15.418Z'
-dateModified: '2017-07-11T00:24:15.123Z'
+datePublished: '2017-07-20T15:17:41.782Z'
+dateModified: '2017-07-20T15:17:41.349Z'
 via: {}
 inFeed: true
 sourcePath: >-
