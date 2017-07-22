@@ -20,19 +20,19 @@ app_links:
     type: android
 isBasedOnUrl: >-
   https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F132269645199%3Fvar%3D431598865167%26ssPageName%3DSTRK%253AMEBIDX%253AIT%26fromMakeTrack%3Dtrue
-title: >-
-  Art Craft Repair Tool 20W Electric Heating Melt Glue Gun Sticks Heat seal
-  Colle | eBay
-datePublished: '2017-07-22T09:31:35.296Z'
-dateModified: '2017-07-22T09:30:29.769Z'
-datePublishedOriginal: '2017-07-22T09:31:35.296Z'
+title: See it in our eBay store!
+datePublished: '2017-07-22T09:36:19.533Z'
+dateModified: '2017-07-22T09:36:18.505Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-07-22-art-craft-repair-tool-20w-electric-heating-melt-glue-gun-sti.md
+starred: false
+datePublishedOriginal: '2017-07-22T09:31:35.296Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Art Craft Repair Tool 20W Electric Heating Melt Glue Gun Sticks Heat seal Colle | eBay</h1><p>Work with Dia. =7mm Hot Melt Glue sticks. What's even better is that this Professional Glue Gun Tool accepts standard glue sticks-which. This gun glue is ideal for scrap booking, model building, floral, craft, fabric, applications. | eBay!</p><img src="http://i.ebayimg.com/images/i/132269645199-0-1/s-l1000.jpg" /></article>
+### See it in our eBay store!
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/054a6e9236040ee3e03aafda535439e5/noop.jpg?input=http%3A%2F%2Fi.ebayimg.com%2Fimages%2Fi%2F132269645199-0-1%2Fs-l1000.jpg" /><h1>Art Craft Repair Tool 20W Electric Heating Melt Glue Gun Sticks Heat seal Colle | eBay</h1><p>Work with Dia. =7mm Hot Melt Glue sticks. What's even better is that this Professional Glue Gun Tool accepts standard glue sticks-which. This gun glue is ideal for scrap booking, model building, floral, craft, fabric, applications. | eBay!</p></article>
