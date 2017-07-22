@@ -21,8 +21,8 @@ app_links:
 isBasedOnUrl: >-
   https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F132269645199%3Fvar%3D431598865167%26ssPageName%3DSTRK%253AMEBIDX%253AIT%26fromMakeTrack%3Dtrue
 title: See it in our eBay store!
-datePublished: '2017-07-22T09:36:19.533Z'
-dateModified: '2017-07-22T09:36:18.505Z'
+datePublished: '2017-07-22T09:36:31.524Z'
+dateModified: '2017-07-22T09:36:31.401Z'
 via: {}
 inFeed: true
 sourcePath: >-
