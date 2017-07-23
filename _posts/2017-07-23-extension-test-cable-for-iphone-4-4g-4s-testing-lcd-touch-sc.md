@@ -19,7 +19,7 @@ app_links:
 isBasedOnUrl: >-
   https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575272753&campid=5338042010&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FExtension-test-cable-For-iphone-4-4G-4S-testing-LCD-touch-screen-digitizer-flex-%2F131575121217%3FssPageName%3DSTRK%3AMESE%3AIT
 title: Check it out in our eBay store!
-datePublished: '2017-07-23T07:15:43.371Z'
+datePublished: '2017-07-23T07:15:43.437Z'
 dateModified: '2017-07-23T07:15:42.848Z'
 via: {}
 inFeed: true
