@@ -16,7 +16,7 @@ analytics:
   twitter: '@sosTooL_Help'
   facebook: '785770461583330'
 author:
-  url: 'http://sostool.help/'
+  url: 'https://thegrid.ai/sostool/'
   name: SoS TooL
   email: sostool.help@gmail.com
 logo: >-
@@ -80,3 +80,4 @@ purpose:
 github: true
 opengraph:
   appId: ''
+url: 'https://thegrid.ai/sostool/'
