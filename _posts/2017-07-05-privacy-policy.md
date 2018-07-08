@@ -4,8 +4,8 @@ description: >-
   Your satisfaction is our long-term pursuit and concern. We want you to shop
   with confidence. That’s why we provide guarantees that ensure you’ll receive
   your item on time and as described.
-dateModified: '2018-07-08T06:19:12.862Z'
-datePublished: '2018-07-08T06:19:14.022Z'
+dateModified: '2018-07-08T06:19:14.311Z'
+datePublished: '2018-07-08T06:19:15.063Z'
 title: Privacy Policy
 author: []
 publisher: {}
