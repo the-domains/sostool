@@ -4,8 +4,8 @@ description: >-
   ***We will ship to your PAYPAL address please verify your shipping address! If
   buyer make mistake with his shipping address re-stockage FEES will be applied
   for resend or refund***
-dateModified: '2017-07-10T07:14:35.011Z'
-datePublished: '2017-07-10T07:14:36.335Z'
+dateModified: '2018-07-08T06:18:48.114Z'
+datePublished: '2018-07-08T06:18:49.168Z'
 title: 'Shipping terms:'
 author: []
 publisher: {}
@@ -70,6 +70,4 @@ For logistical reasons, items in the same purchase will sometimes be sent in sep
 
 If you have any other questions, please contact us and we will do our best to help you out.
 
-Copyright (c) 2017 -[sostool.help][0]- All rights reserved.
-
-[0]: http://sostool.help/
+Copyright (c) 2017 -https://thegrid.ai/sostool/- All rights reserved.
