@@ -4,8 +4,8 @@ description: >-
   Your satisfaction is our long-term pursuit and concern. We want you to shop
   with confidence. That’s why we provide guarantees that ensure you’ll receive
   your item on time and as described.
-dateModified: '2017-07-10T07:13:44.588Z'
-datePublished: '2017-07-10T07:13:45.119Z'
+dateModified: '2018-07-08T06:19:12.862Z'
+datePublished: '2018-07-08T06:19:14.022Z'
 title: Privacy Policy
 author: []
 publisher: {}
@@ -60,7 +60,6 @@ Please do not send your purchase back to us unless we authorize you to do so.
 
 Thanks
 
-Copyright (c) 2017 -[sostool.help][1]- All rights reserved.
+Copyright (c) 2017 -https://thegrid.ai/sostool/- All rights reserved.
 
 [0]: http://sostool.help/shipping-terms "shipping terms"
-[1]: http://sostool.help/
