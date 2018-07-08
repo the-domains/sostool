@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Payments methods include PayPal and Credit cards.
-dateModified: '2017-07-10T07:14:17.213Z'
-datePublished: '2017-07-10T07:14:17.729Z'
+dateModified: '2018-07-08T06:19:53.893Z'
+datePublished: '2018-07-08T06:19:54.873Z'
 title: Payment methods
 author: []
 publisher: {}
@@ -33,6 +33,4 @@ The reasons why we suggest you use PayPal:
 Payment is traceable. By using your PayPal account, you can trace the status of your payment. Its the safest way to pay online. You can read buyer protection at www.paypal.com  
 When you make payment for your order, you don't need to use your credit card online (you can transfer directly from your bank account). When you use your credit card through PayPal, nobody will see your credit card number, which will minimize the risk of unauthorized use.
 
-Copyright (c) 2017 -[sostool.help][0]- All rights reserved.
-
-[0]: http://sostool.help/
+Copyright (c) 2017 -https://thegrid.ai/sostool/- All rights reserved.
